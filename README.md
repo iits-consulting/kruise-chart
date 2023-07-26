@@ -1,3 +1,6 @@
+#Deprecated
+We don't use and need it anymore
+
 ## Usage
 
 kruise helm chart for special CRDs for kubernetes.
